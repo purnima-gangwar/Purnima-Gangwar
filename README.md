@@ -1,4 +1,4 @@
-## Hiii, I,m Purnima 👋
+## Hiii There!👋 I,m Purnima 
 
 <!--
 **purnima-gangwar/Purnima-Gangwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
