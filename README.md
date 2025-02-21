@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purnima-gangwar&show_icons=true&locale=en" alt="purnima-gangwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnima-gangwar&" alt="purnima-gangwar" /></p>
