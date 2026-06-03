@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purnima Gangwar</h1>
-<h3 align="center">A passionate Full-Stack(MERN) Developer from India</h3>
+<h3 align="center">A passionate Full-Stack(MERN) Developer</h3>
 <img align="right" alt="coding"width="400"src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="purnima-gangwar" /> </p>
@@ -9,8 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/purnimagangwar4/sites](https://app.netlify.com/teams/purnimagangwar4/sites)
 
 - 📫 How to reach me **purnimagangwar4@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/purnima gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purnima gangwar" height="30" width="40" /></a>
 </p>
