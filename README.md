@@ -18,4 +18,4 @@
 
 ## ⚡ Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=purnima-gangwar&theme=transparent&hide_border=false&border_radius=12&background=1A1B27&stroke=3B4252&ring=FFB86C&fire=FF9E64&currStreakLabel=FFD166&sideLabels=E6EDF3&sideNums=FFFFFF&dates=AAB1C5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=false&border_radius=12&background=1A1B27&stroke=3B4252&ring=FFB86C&fire=FF9E64&currStreakLabel=FFD166&sideLabels=E6EDF3&sideNums=FFFFFF&dates=AAB1C5)](https://git.io/streak-stats)
