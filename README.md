@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="purnima-gangwar" /> </p>
 <p align="left"> <img src="" alt="purnima-gangwar" /> </p>
-- ✨ I’m currently learning Full-Stack(MERN)
+✨ I’m currently learning Full-Stack(MERN)
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/purnimagangwar4/sites](https://app.netlify.com/teams/purnimagangwar4/sites)
+👨‍💻 All of my projects are available at [https://app.netlify.com/teams/purnimagangwar4/sites](https://app.netlify.com/teams/purnimagangwar4/sites)
 
-- 📫 How to reach me **purnimagangwar4@gmail.com**
+ 📫 How to reach me **purnimagangwar4@gmail.com**
 <h3 align="left">Connect with us </h3>
 <p align="left">
 <a href="https://linkedin.com/in/purnima gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purnima gangwar" height="30" width="40" /></a>
