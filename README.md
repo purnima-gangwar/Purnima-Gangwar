@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="purnima-gangwar" /> </p>
 <p align="left"> <img src="" alt="purnima-gangwar" /> </p>
-- ✨ I’m currently learning **Full-Stack(MERN)**
+- ✨ I’m currently learning Full-Stack(MERN)
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/purnimagangwar4/sites](https://app.netlify.com/teams/purnimagangwar4/sites)
 
