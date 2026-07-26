@@ -1,6 +1,6 @@
 <h1 align="center">Hey There!👩‍💻</h1>
 <h3 align="center">A passionate Full-Stack(MERN) Developer</h3>
-<img align="right" alt="coding"width="400"src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding"width="400"src="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif](https://giphy.com/explore/web-code)">
 
 <p align="left"> <img src="" alt="purnima-gangwar" /> </p>
 
