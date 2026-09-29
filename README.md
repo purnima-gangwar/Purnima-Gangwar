@@ -5,7 +5,7 @@
 - 🛡️ Currently learning Blue Team Cybersecurity<br>
 - 🔐 Exploring SOC, SIEM, Threat Detection & Log Analysis<br>
 - 🚀 Interested in building practical and real-world projects<br>
-- 📚 Continuously learning and improving my technical skills<br>
+- 📚 Continuously learning and improving my technical skills <br>
 
 
 ## 🌐 Socials:
