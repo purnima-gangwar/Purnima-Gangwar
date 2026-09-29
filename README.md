@@ -1,9 +1,15 @@
-<h1 align="center">Hey, I'm Purnima👋</h1>
-<h3 align="center"> I'm currently learning Blue Team Cybersecurity</h3>
+<h1 align="center">Hey, I'm Purnima 👋</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Blue+Teamer;Cybersecurity+Learner;Full-Stack+Developer;Learning+%7C+Building+%7C+Securing" alt="Typing SVG" />
 </p>
 
+## 🧭 About Me
+
+- 🔐 Exploring SOC, SIEM, Threat Detection & Log Analysis
+- 🛡️ Passionate about learning cybersecurity and developing a strong defensive security mindset
+- 🚀 Interested in building practical and real-world projects
+- 📚 Continuously learning and improving my technical skills
 # 💫 About Me:
 - 🔐 Exploring SOC, SIEM, Threat Detection & Log Analysis<br>
 - 🛡️ Passionate about learning cybersecurity and developing a strong defensive security mindset<br>
