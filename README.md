@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Purnima 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Blue+Teamer;Cybersecurity+Learner;Full-Stack+Developer;Learning+%7C+Building+%7C+Securing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Aspiring+Blue+Teamer;Cybersecurity+Learner;Learning+%7C+Building+%7C+Securing" alt="Typing SVG" />
 </p>
 
 ## 🧭 About Me
