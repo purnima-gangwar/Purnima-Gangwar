@@ -10,12 +10,6 @@
 - 🛡️ Passionate about learning cybersecurity and developing a strong defensive security mindset
 - 🚀 Interested in building practical and real-world projects
 - 📚 Continuously learning and improving my technical skills
-# 💫 About Me:
-- 🔐 Exploring SOC, SIEM, Threat Detection & Log Analysis<br>
-- 🛡️ Passionate about learning cybersecurity and developing a strong defensive security mindset<br>
-- 🚀 Interested in building practical and real-world projects<br>
-- 📚 Continuously learning and improving my technical skills <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purnima-gangwar-1b472a31b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purnimagangwar4@gmail.com) 
