@@ -22,6 +22,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=purnima-gangwar&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=purnima-gangwar&icon=9&color=0)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=purnima-gangwar&color=brightgreen)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
